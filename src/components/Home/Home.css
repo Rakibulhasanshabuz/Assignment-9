@@ -1,0 +1,12 @@
+.home-container{
+    background-color: rgb(248, 230, 206);
+    margin: 20px;
+    padding: 10px;
+}
+.dance-head{
+    color: coral;
+}
+.home-container h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

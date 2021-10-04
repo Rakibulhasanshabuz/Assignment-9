@@ -1,0 +1,25 @@
+.importance-container{
+    margin: 10px;
+    padding: 10px;
+}
+.imp-head{
+    color: brown;
+}
+.first-vlog{
+    background-color: cornsilk;
+    margin: 10px;
+    padding: 20px;
+}
+.third-vlog{
+    background-color: rgb(245, 189, 171);
+    margin: 10px;
+    padding: 20px;
+}
+.start-button{
+    background-color: goldenrod;
+    height: 50px;
+    width: 120px;
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
